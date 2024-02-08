@@ -20,6 +20,8 @@ classifiers = [
     "Programming Language :: Python :: 3.9",
     "Programming Language :: Python :: 3.10",
     "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    
 ]
 dynamic = ["dependencies", "optional-dependencies", "version"]
 
@@ -31,5 +33,5 @@ version = {attr = "nicoocord.__version__"}
 "GitHub" = "https://github.com/littxle/nicoocord"
 
 [build-system]
-requires = ["setuptools>=43.0.0", "wheel"]
+requires = ["setuptools>=62.6", "wheel"]
 build-backend = "setuptools.build_meta"

@@ -3,6 +3,8 @@
 ## Version 2.1.5
 
 * Added `get` method to the bot class to get a item from the `nicoocord.json`
+* Add support for Python 3.12
+
 
 ## Version 2.0.0
 
